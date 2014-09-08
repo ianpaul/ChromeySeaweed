@@ -1,0 +1,17 @@
+{
+  "name": "Chromey Seaweed",
+  "description": "My second Chrome App.",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  
+  "icons": { "128": "surf.png" },
+  "permissions": [
+    
+    "http://magicseaweed.com/"
+  ]
+}
