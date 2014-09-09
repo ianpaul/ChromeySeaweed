@@ -10,7 +10,7 @@ td {
 
 .header {
 	font-size: 20px;
-	text-align: center;
+	text-align: right;
 	margin-right: 0px;
 	margin-top: 0px;
 	margin-bottom: 10px;
@@ -18,8 +18,7 @@ td {
 }
 
 .msw {
-    margin-bottom: 125px;
-    margin-left: 185px;
+    margin-left: 0px;
 	height: 24px;
 	width: 100x;
 }
@@ -54,6 +53,20 @@ td {
 .quiz {
 	font-size: 12px;
 	text-align: right;
+}
+
+.nextPage {
+    text-align: right;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.previousPage {
+    text-align: right;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 25px;
 }
 
 .onoffswitch {
