@@ -12,10 +12,15 @@ var buildBeaches = function () {
 
 }
 
-window.addEventListener('load', function(){
-	var makeTable = document.getElementById('beachTable');
-	makeTable.addEventListener('load', buildBeaches);
-});
+buildBeaches();
+
+
+
+
+//document.addEventListener('load', function(){
+//	var makeTable = document.getElementById('beachTable');
+//	makeTable.addEventListener('load', buildBeaches);
+// });
 
 
 var makeWindow1 = function () {
