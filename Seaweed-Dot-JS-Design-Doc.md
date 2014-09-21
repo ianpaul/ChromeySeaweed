@@ -14,7 +14,7 @@ It will have a for loop that goes through *beaches1* and adds the beach names to
 
 But we want the table to be styled a very specific way with alternating blue and white backgrounds. 
 
-Inside the for loop will be an if statement. If beaches1[i] === false. Then add it dynamically to the table with a class id of blueBeach. Else add it dynamically to the table with a class id of whiteBeach. 
+Inside the for loop will be an if statement. If beaches1[i]%2 === false. Then add it dynamically to the table with a class id of blueBeach. Else add it dynamically to the table with a class id of whiteBeach. 
 
 End of function.
 
