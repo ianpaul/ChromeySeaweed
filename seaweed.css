@@ -6,6 +6,9 @@ table, th, td {
 td {
 	padding-top: 10px;
 	padding-bottom: 10px;
+    background-color:#0038b8;
+    margin: 5px;
+    border-bottom: 2px solid #0038b8;
 }
 
 .header {
