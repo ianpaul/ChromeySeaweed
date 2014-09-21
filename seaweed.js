@@ -1,6 +1,7 @@
-// Get array of classes without jQuery
 var beaches1 = ["Hilton Beach", "Hazuk Beach", "Dolphinarium", "Topsy Beach", "Herzliya Marina", 
 "Hof Maravi", "Beit Yanai"];
+
+var beaches2 = ["1", "2", "3", "4", "5", "6", "7"];
 
 var theTable = document.createElement('table');
 
